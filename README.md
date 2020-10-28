@@ -5,8 +5,6 @@ a pocket calculator.
 
 ![Build Status](https://dev.azure.com/devops0409/PartsUnlimited%20Mod04/_apis/build/status/muczciwek.calculator?branchName=master)(https://dev.azure.com/devops0409/PartsUnlimited%20Mod04/_build/latest?definitionId=5&branchName=master)
 
-https://dev.azure.com/devops0409/PartsUnlimited%20Mod04/_apis/build/status/muczciwek.calculator?branchName=master
-
 The project contains a simple node.js application that exposes REST APIs
 to perform arithmetic on integers, and provides a test suite with mocha
 and chai.  The `mocha-junit-reporters` package is included to provide XML
