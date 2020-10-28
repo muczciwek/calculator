@@ -3,7 +3,7 @@ Calculator.js: a node.js Demonstration Project
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
-[![Build Status](https://dev.azure.com/devops0409/PartsUnlimited%20Mod04/_apis/build/status/muczciwek.calculator?branchName=master)](https://dev.azure.com/devops0409/PartsUnlimited%20Mod04/_build/latest?definitionId=5&branchName=master)
+![Build Status](https://dev.azure.com/devops0409/PartsUnlimited%20Mod04/_apis/build/status/muczciwek.calculator?branchName=master)(https://dev.azure.com/devops0409/PartsUnlimited%20Mod04/_build/latest?definitionId=5&branchName=master)
 
 https://dev.azure.com/devops0409/PartsUnlimited%20Mod04/_apis/build/status/muczciwek.calculator?branchName=master
 
